@@ -11,3 +11,6 @@ PC5_201401105
 
 #### Tugas 3
 > Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.![FireShot Capture 001 - Modul 1 Contoh 1_tugas - localhost](https://user-images.githubusercontent.com/77369458/196202728-9a0adb26-de22-4a84-a4be-fd0474559a19.png)
+
+#### UAS
+> Pojek UAS membuat tombol gabungan .![Screenshot UAS](https://user-images.githubusercontent.com/77369458/206972595-be7c6797-83d0-4f3e-93b0-da54f60cb28f.png)
